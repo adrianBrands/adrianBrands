@@ -19,9 +19,12 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## Most Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianBrands)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianBrands)](https://github.com/anuraghazra/github-readme-stats)
 
-## Most Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianBrands)](https://github.com/anuraghazra/github-readme-stats)
+
