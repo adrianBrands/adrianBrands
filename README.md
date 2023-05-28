@@ -3,7 +3,7 @@
 - 🎓  I'm currently studying for a higher professional degree in front end developement at Noroff (graduation 06/2023)
 - 🔭 I’m currently working on my last Project-Exam creating a booking site using ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) [E-commerce site](https://github.com/adrianBrands/projcet-exam-2)
 - 🌱 I’m currently learning ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
--  :hammer:Recent creations; [Petrol Head Blog](https://roaring-pothos-bbe0ee.netlify.app/index.html), [Online auction site](https://resilient-elf-b6a418.netlify.app/index.html), and [Online booking site](https://endearing-squirrel-90a49e.netlify.app/)
+-  :hammer:Recent creations; [Petrol Head Blog](https://roaring-pothos-bbe0ee.netlify.app/index.html), [Online auction site](https://resilient-elf-b6a418.netlify.app/index.html), simple [Online shop](https://splendid-figolla-7a87af.netlify.app/product/f7bdd538-3914-409d-bd71-8ef962a9a9dd), and [Online booking site](https://endearing-squirrel-90a49e.netlify.app/)
 
 ## What I've been trough so far:
 
