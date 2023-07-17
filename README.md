@@ -1,7 +1,7 @@
 ## Hi, 👋 I'm Adrian, I'm an Norwegian web-developer living in Bergen.
 
 - 🎓  I'm currently studying for a higher professional degree in front end developement at Noroff (graduation 06/2023)
-- 🔭 I’m currently working on a hobby project, and learning Typescript ![Typescript Badge](https://shields.io/badge/TypeScript-3178C6?(https://github.com/adrianBrands/projcet-exam-2)
+- 🔭 I’m currently working on a hobby project, and learning Typescript ![Typescript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 - 🌱 I’m currently learning ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) and ![Typescript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 -  :hammer:Recent creations; [Petrol Head Blog](https://roaring-pothos-bbe0ee.netlify.app/index.html), [Online auction site](https://resilient-elf-b6a418.netlify.app/index.html), simple [Online shop](https://splendid-figolla-7a87af.netlify.app/product/f7bdd538-3914-409d-bd71-8ef962a9a9dd), and [Online booking site](https://endearing-squirrel-90a49e.netlify.app/)
 
