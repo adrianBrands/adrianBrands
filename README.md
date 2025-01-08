@@ -1,6 +1,4 @@
 ## Hi, 👋 I'm Adrian, I'm an Norwegian web-developer living in Bergen.
-
-- 🎓  I'm currently studying for a higher professional degree in back end developement at Noroff (graduation 06/2025)
 - 🎓  Graudated in front end developement at Noroff (06/2023)
 - 🔭 I’m currently working on a hobby project
 - 🌱 I’m currently learning ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) and ![Typescript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
